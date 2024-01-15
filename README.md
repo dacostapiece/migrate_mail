@@ -36,3 +36,12 @@ Exiting with return value 0 (EX_OK: successful termination) 0/50 nb_errors/max_e
 if value 0 (EX_OK: successful termination) then you are alright.
 19) You can use audit.py - this script will look all TXT files in its own directory and create a list of mail addresses along "not OK" or "OK" so you can review individual fails among several files.
 You may update this code to output results in separate files for better review.
+20) Before shutting down (cancel) source server, you may like to backup these mails somewhere else locally
+I've asked chatgpt to create a python script what would get file  address_importer_example.com.br.csv created previously to achive this
+run "python 08 - create_address_importer_mailstore_file.py" - it will output file  address_importer_mailstore_example.com.br.csv
+21) Download Mailstore Server Trial version https://www.mailstore.com/en/products/mailstore-server/
+22) Get your free trial license code on your email, do basic install, go to Archive Email, select E-mail Servers/Other Server via IMAP/POP3/Multiple Mailboxes (CSV File)/set source (or dest) imap mail server will want to backup, click accept all certificates - in csv file past full directory path along file address_importer_example.com.br.csv
+Follow instructions, click em Finish and wait download
+23) After itfinishes, go to Administrative Tools/Compliance/Compliance General/Archive Access - set tp allow access to administrators - so you can handle what it was backed up.
+24) Backups will be shown under Other archives
+25) You can export this info in Export E-mail/E-mail Files/Export to PST file/All folders (or individual one/Export Email to a new or existing pst file - set a new file  name and click finish - i'd like to export several individual  PSTs all at once, but i still dont how to do it. You can reach out Mailstore for this
