@@ -1,0 +1,72 @@
+
+Skip to main content
+Skip to main content
+Contas de email
+
+    List Email Accounts 
+
+This feature lets you create and manage email accounts. Want to learn more? Read our documentation.
+∞ Disponível
+5 Usado
+Filter:
+
+    Todos
+    Restricted
+    Conta do sistema
+    Exceeded Storage
+
+    <<
+    <
+    Página 1 de 1
+    >
+    >>
+
+1 - 6 of 6
+	conta @ Domínio 	Restrictions 	Storage: Usado / Allocated / % 	
+	
+assis@example.com.br 	
+Irrestrito
+	
+3,53 MB / 1 GB / 0,34%
+0,34%
+	
+	
+dp@example.com.br 	
+Irrestrito
+	
+98,49 KB / 1 GB / 0,01%
+0,01%
+	
+	
+rafael@example.com.br 	
+Irrestrito
+	
+2,53 MB / 5 MB / 50,61%
+50,61%
+	
+	
+snsec Sistema 	
+Irrestrito
+	
+6,03 MB / ∞
+	
+	
+soc@example.com.br 	
+Irrestrito
+	
+164,08 KB / 1 GB / 0,02%
+0,02%
+	
+	
+teste@example.com.br 	
+Irrestrito
+	
+70,72 KB / 1 GB / 0,01%
+0,01%
+	
+
+cPanel, L.L.C. uses Interface Analytics to help us understand how our customers use cPanel & WHM. We take your privacy very seriously, and you can stop data collection at any time. Find out more about Interface Analytics.
+
+Will you allow Interface Analytics data collection for your account?
+Allow
+Deny

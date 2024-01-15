@@ -1,0 +1,6 @@
+source_imap_server.example.com.br;assis@example.com.br;Example#password21h40/*;dest_imap_server.example.com.br;assis@example.com.br;Example#password21h40/*;
+source_imap_server.example.com.br;dp@example.com.br;Example#password21h40/*;dest_imap_server.example.com.br;dp@example.com.br;Example#password21h40/*;
+source_imap_server.example.com.br;rafael@example.com.br;Example#password21h40/*;dest_imap_server.example.com.br;rafael@example.com.br;Example#password21h40/*;
+source_imap_server.example.com.br;soc@example.com.br;Example#password21h40/*;dest_imap_server.example.com.br;soc@example.com.br;Example#password21h40/*;
+source_imap_server.example.com.br;teste@example.com.br;Example#password21h40/*;dest_imap_server.example.com.br;teste@example.com.br;Example#password21h40/*;
+;;

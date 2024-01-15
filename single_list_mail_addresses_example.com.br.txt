@@ -1,0 +1,5 @@
+assis@example.com.br
+dp@example.com.br
+rafael@example.com.br
+soc@example.com.br
+teste@example.com.br
