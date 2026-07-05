@@ -8,3 +8,5 @@ subfolder folder
 --sync_uol_to_outlook.bat
 oauth2_imap folder
 --oauth2_imap.exe
+--localhost.crt
+--localhost.key
