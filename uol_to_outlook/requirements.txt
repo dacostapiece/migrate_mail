@@ -3,6 +3,8 @@ binaries you need on this parent folder - downloaded on your computer
 parent folder
 imapsync.exe
 oauth2_office365_with_imap.exe
-subfolder
+subfolder folder
 --refresh_outlook_token.py
 --sync_uol_to_outlook.bat
+oauth2_imap folder
+--oauth2_imap.exe
