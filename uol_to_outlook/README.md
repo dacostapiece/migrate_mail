@@ -108,7 +108,7 @@ patience and re-running.
 Double-click `sync_uol_to_outlook.bat`, or from a terminal:
 
 ```
-cd /d "C:\Users\rafaeladmin\Desktop\UOL_TO_OUTLOOK_MIGRATION\imapsync_2.264\RAFA_migration"
+cd /d "%userprofile%\uol_to_outlook\subfolder"
 sync_uol_to_outlook.bat
 ```
 
